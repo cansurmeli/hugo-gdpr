@@ -1,0 +1,22 @@
+consent_form:
+  - title: [TITLE]
+    is_functional: true
+    script_file: js/[FILE_NAME].js
+    category: Essential
+    category_detail: [EXPLANATION HERE]
+    provider: [PROVIDER_HERE]
+    purpose: [PURPOSE_HERE]
+    privacy_policy: [PRIVACY_POLICY_HERE]
+    cookie_name: [COOKIE_NAME_HERE]
+    cookie_runtime: Storage / 1 Month
+
+  - title: [TITLE]
+    is_functional: false
+    script_file: js/[FILE_NAME].js
+    category: Statistical
+    category_detail: [EXPLANATION HERE]
+    provider: [PROVIDER_HERE]
+    purpose: [PURPOSE_HERE]
+    privacy_policy: [PRIVACY_POLICY_HERE]
+    cookie_name: [COOKIE_NAME_HERE]
+    cookie_runtime: Storage / 1 Month
