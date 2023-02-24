@@ -1,0 +1,3 @@
+[submodule "themes/hugo-abstract"]
+	path = themes/hugo-abstract
+	url = https://github.com/cansurmeli/hugo-abstract.git
